@@ -2,9 +2,7 @@ images test
 =========================
 
 ## Demo
-```
 [http://anorudes.github.io/images-test](http://anorudes.github.io/images-test)
-```
 
 ## Install
 ```
